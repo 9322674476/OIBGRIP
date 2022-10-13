@@ -15,13 +15,13 @@
     <style>  
 body    
 {    
-
+background-color:lightgreen;
 background-image: url("calci.jpg"); 
 
 }    
 .box    
 {    
- 
+background-color:indigo; 
 background-image: url("caltop.png");  
 height: 310px;    
 width: 270px;    
